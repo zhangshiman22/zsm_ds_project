@@ -1,7 +1,6 @@
 # DS Project pratice
 
-- [native bayes notebook](./naive_bayes.ipynb)
-- [hotel_sentiment_analysis notebook](./hotel_sentiment_analysis.ipynb)
-
-git config --global user.name "zsm"
-git config --global user.email "zhangshiman22@gmail.com"
+About Me
+My name is Shiman Zhang. I am currently studying my Master's Degree in Data Science at the University of San Francisco.
+Project Description
+This repository is about classical projects I've done, including hotel sentiment analysis, MBIM top 250 analysis, gaussian naive bayes model building, etc.
